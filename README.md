@@ -1,1 +1,2 @@
 # Novel-SNP
+SNP analysis project - Study of the SNP and its clinical effects, regulation of the SNP, and its effects in a regulatory perspective, NGS analysis on a particular individual (dataset from 1000 Genomes Project) to find whether that individual has the SNP.
